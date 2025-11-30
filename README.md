@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mostafa Nema</h1>
+<h1 align="center">Hi 👋, I'm Mostafa</h1>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mostafa-n3ma&label=Profile%20views&color=0e75b6&style=flat" />
